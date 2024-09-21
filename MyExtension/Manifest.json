@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name":"MyExtension G",
+    "version":"1.0.0",
+    "description":"my custom chrome extension",
+    "action": {
+      "default_popup": "./popup/index.html",
+      "default_icon": "logo.png"
+    }
+}
